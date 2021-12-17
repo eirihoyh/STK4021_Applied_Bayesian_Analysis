@@ -9,3 +9,9 @@ Exercises that was given by the course lecturer. All exercises can be found in t
 
 ## Given Exercises
 Exercises given by Nils, that were neither are in the book or in the Nils Collection Exercises. 
+
+## the Oblig
+Containing the oblig exercise and my solution to it.
+
+## Data
+Datasets and images used in some of the exercises
